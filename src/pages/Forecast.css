@@ -1,0 +1,7 @@
+.forecast-wrapper {
+  position: relative;
+}
+.table td,
+th {
+  text-align: center;
+}
